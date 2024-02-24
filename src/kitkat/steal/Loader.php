@@ -6,6 +6,11 @@ namespace kitkat\steal;
 
 use pocketmine\plugin\PluginBase;
 
+/**
+ * @author kitkat. <https://github.com/kitkatezz>
+ * @copyright 2024 kitkat. - Todos os direitos reservados
+ */
+
 final class Loader extends PluginBase
 {
 
